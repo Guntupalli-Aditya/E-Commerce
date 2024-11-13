@@ -26,3 +26,6 @@ Add to Cart: Select items to add to their cart for purchase.
 Place Orders: Proceed with a streamlined checkout process.
 Order Tracking: View order history and track current orders.
 Admins can manage product listings, monitor sales, and update stock levels, providing full control over the inventory and customer experience.
+
+# Link for the Project
+https://frontend11-six.vercel.app/

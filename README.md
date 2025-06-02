@@ -5,10 +5,10 @@
 
 # Technologies Used
 The project leverages the MERN stack:
-MongoDB for the database, ensuring a scalable and flexible solution to store user and product data.
-1) Express.js for server-side functionality, managing the backend and API routes.
-2) React.js for building the frontend interface, creating a responsive and engaging user experience.
-3) Node.js as the runtime environment, allowing for efficient handling of asynchronous operations and smooth data flow between client and server.
+1) MongoDB for the database, ensuring a scalable and flexible solution to store user and product data.
+2) Express.js for server-side functionality, managing the backend and API routes.
+3) React.js for building the frontend interface, creating a responsive and engaging user experience.
+4) Node.js as the runtime environment, allowing for efficient handling of asynchronous operations and smooth data flow between client and server.
 
 # Key Features of the Project
 The website includes several essential features:
